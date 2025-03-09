@@ -1,5 +1,5 @@
 # 💫 About Me:
-3rd grade student at epitech on sofware ingenering<br>likeing about coding in low level langage in c/c++ rust and also web and devops
+I am a 3rd-year Software Engineering student at Epitech. Passionate about low-level programming, I enjoy coding in C, C++, and Rust. I also have a strong interest in web development and DevOps.🚀
 
 
 ## 🌐 Socials:
